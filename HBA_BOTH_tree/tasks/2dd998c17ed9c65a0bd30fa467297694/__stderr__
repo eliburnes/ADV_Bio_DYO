@@ -1,0 +1,26 @@
+FastTree Version 2.1.8 Double precision (No SSE3), OpenMP (1 threads)
+Alignment: /Users/Eli/PycharmProjects/Adv_BIO_DYO_PHYLOGENY/HBA_BOTH_tree/input/5baff983dc0959ce929c1e47a90697cf.201
+Amino acid distances: BLOSUM45 Joins: balanced Support: SH-like 1000
+Search: Normal +NNI +SPR (2 rounds range 10) +ML-NNI opt-each=3
+TopHits: 1.00*sqrtN close=default refresh=0.80
+ML Model: Jones-Taylor-Thorton, CAT approximation with 20 rate categories
+Pseudocount weight for comparing sequences with little overlap: 1.000
+Ignored unknown character B (seen 14 times)
+Ignored unknown character Z (seen 4 times)
+Initial topology in 0.06 seconds
+Refining topology: 30 rounds ME-NNIs, 2 rounds ME-SPRs, 15 rounds ML-NNIs
+Total branch-length 11.310 after 0.57 sec
+ML-NNI round 1: LogLk = -10441.329 NNIs 39 max delta 5.18 Time 2.90
+Switched to using 20 rate categories (CAT approximation)
+Rate categories were divided by 0.985 so that average rate = 1.0
+CAT-based log-likelihoods may not be comparable across runs
+Use -gamma for approximate but comparable Gamma(20) log-likelihoods
+ML-NNI round 2: LogLk = -9456.809 NNIs 28 max delta 4.19 Time 6.05
+ML-NNI round 3: LogLk = -9446.241 NNIs 11 max delta 4.27 Time 8.72
+ML-NNI round 4: LogLk = -9441.699 NNIs 6 max delta 3.59 Time 11.42
+ML-NNI round 5: LogLk = -9437.008 NNIs 5 max delta 2.90 Time 14.08
+ML-NNI round 6: LogLk = -9436.880 NNIs 3 max delta 0.00 Time 16.72
+Turning off heuristics for final round of ML NNIs (converged)
+ML-NNI round 7: LogLk = -9436.880 NNIs 3 max delta 0.00 Time 19.40 (final)
+Optimize all lengths: LogLk = -9436.880 Time 19.71
+Total time: 20.83 seconds Unique: 189/199 Bad splits: 0/186

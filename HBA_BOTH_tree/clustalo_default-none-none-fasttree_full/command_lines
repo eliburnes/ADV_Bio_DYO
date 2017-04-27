@@ -1,0 +1,1 @@
+Mon Apr  3 10:44:31 2017	15a4639e7193f7c1d3d67bb9c8f25f97	False	/Users/Eli/miniconda2/bin/ete3 -w standard_fasttree -a HBA_BOTH_padded.fasta -o HBA_BOTH_tree/ --clearall

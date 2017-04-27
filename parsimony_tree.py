@@ -20,5 +20,5 @@ searcher = NNITreeSearcher(scorer)
 constructor = ParsimonyTreeConstructor(searcher, starting_tree)
 pars_tree = constructor.build_tree(aln)
 
-Phylo.write(tree, "HBA_both_parsimony_tree.xml","phyloxml")
+Phylo.write(pars_tree, "HBA_both_parsimony_tree.xml","phyloxml")
 print pars_tree
