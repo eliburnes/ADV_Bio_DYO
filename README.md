@@ -1,6 +1,6 @@
 # ADV_Bio_DYO
 	
-This is phylogenetic analyses of coelecanth, lungfish, tetrapods, and other related species using hemoglobin protein sequences, I  did as a final project for my highschool biology class. Here's a quick summary:
+This repository contains phylogenetic analyses of coelecanth, lungfish, tetrapods, and other related species using hemoglobin protein sequences, which I did as a final project for my highschool biology class. Here's a quick summary:
 
 Approximately 370 million years ago, a bony-fish waddled onto land for the first time. This fish, or a relative, would become the common ancestor for all land-dwelling vertebrates, including dinosaurs, mammals, and snakes. To understand macroevolution, it is crucial to understand the details of this jump to land, as it acted as a bottleneck in determining the morphology of land-dwelling animals. The lobe-finned fish, bony fish which diverged from ray-finned fish, are a clade that includes the sea-land transition fish, but also includes Lungfish and Coelacanths, two potential sister species with tetrapods who dwell in the ocean to this day.
 
